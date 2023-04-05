@@ -10,6 +10,8 @@ packages = [{include = "sub_maker"}]
 python = "^3.10"
 openai = "^0.27.1"
 ffmpeg-python = "^0.2.0"
+codetiming = "^1.4.0"
+srtranslator = "^0.2.2"
 
 
 [build-system]
